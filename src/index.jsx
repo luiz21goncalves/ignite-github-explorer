@@ -1,7 +1,8 @@
 import React from 'react'
+import App from './App'
 
-function Add() {
-  return <h1>App</h1>
+function Wrapper() {
+  return <App/>
 }
 
-export default App
+export default Wrapper
